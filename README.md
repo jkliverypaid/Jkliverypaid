@@ -73,9 +73,9 @@
     <br>
       <p class="price">₹80</p>
   
-  <a href="gateway.html" 
+  <a href="gateway.html"> 
         
-      </a><button>download</button> </a>
+      ><button>download</button> </a>
     </div>
 <h2>DIWANI BUS</h2>
    <img src="thekaka.jpg" alt="Livery Photo 3" height="100px">
@@ -83,9 +83,9 @@
     <br>
       <p class="price">₹80</p>
   
-  <a href="gateway.html" 
+  <a href="gateway.html">
         
-      </a><button>download</button> </a>
+    <button>download</button> </a>
     </div>
 <!-- Add more items as needed -->
 
