@@ -17,26 +17,21 @@
   <section class class="no"
     <div class>
       <h2>SIMRAN BUS</h2>
-      
-    </div>
-    <div class="item">
       <img src="simmer.jpg" height="100px">
         <img src="simmrn.jpg" height="100px">  <p>₹80</p>
          <br>
       <a href="gateway.html "
       </a><button>download </button></a>
       <br>
-        
-      <h2>gourav bus</h2>
+      
       <p class="price">₹80</p>
-    </div>
-    <div class="item">
+  <p>GOURAV BUS</p>
       <img src="gorv.jpg" alt="Livery Photo 3" height="100px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="100px">
       <br>3
-        <a href="gateway.html" 
+        <a href="gateway.html">
           
-    ><button>download</button> </a>
+    <button>download</button> </a>
       
       <h2>P. G .S BUS</h2>
    <img src="bus1.jpg" alt="Livery Photo 3" height="100px">
