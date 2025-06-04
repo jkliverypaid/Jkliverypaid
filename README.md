@@ -36,7 +36,7 @@
       <br>3
         <a href="gateway.html" 
           
-      </a><button>download</button> </a>
+    ><button>download</button> </a>
       
       <h2>P. G .S BUS</h2>
    <img src="bus1.jpg" alt="Livery Photo 3" height="100px">
@@ -58,7 +58,7 @@
   
   <a href="gateway.html" >
         
-      </a><button>download</button> </a>
+      ><button>download</button> </a>
     </div>
 
 <h2>SHIVEM BUS</h2>
@@ -69,7 +69,7 @@
   
   <a href="gateway.html" 
         
-      </a><button>download</button> </a>
+      ><button>download</button> </a>
     </div>
 
 <h2>SYMBYAL BUS</h2>
