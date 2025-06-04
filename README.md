@@ -43,7 +43,7 @@
         
       
       <button>download</button> </a>
-    </div>
+    
     
   <h2>SAHIL BUS</h2>
    <img src="sahil.jpg" alt="Livery Photo 3" height="100px">
@@ -54,7 +54,7 @@
   <a href="gateway.html" >
         
       ><button>download</button> </a>
-    </div>
+    
 
 <h2>SHIVEM BUS</h2>
    <img src="shivam.jpg" alt="Livery Photo 3" height="100px">
@@ -65,7 +65,7 @@
   <a href="gateway.html" 
         
       ><button>download</button> </a>
-    </div>
+    
 
 <h2>SYMBYAL BUS</h2>
    <img src="syml.jpg" alt="Livery Photo 3" height="100px">
@@ -76,7 +76,7 @@
   <a href="gateway.html"> 
         
       ><button>download</button> </a>
-    </div>
+    
 <h2>DIWANI BUS</h2>
    <img src="thekaka.jpg" alt="Livery Photo 3" height="100px">
  <img src="thekaka2.jpg" alt="Livery Photo 3" height="100px">
@@ -86,10 +86,10 @@
   <a href="gateway.html">
         
     <button>download</button> </a>
-    </div>
+    
 <!-- Add more items as needed -->
 
-  </section>
+  
 
   <footer>
     <p>&copy; 2025 Livery Sale JK ALA. All rights reserved.</p>
