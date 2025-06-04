@@ -13,7 +13,7 @@
 @jk_livery_maker follow on Instagram</h1></center>
     <p style="background-color:yellow">Explore our collection of business livery photos for sale!</p>
 
-<section class class="no"
+ <<section class class="no">
     <div class>
       <h2>SIMRAN BUS</h>
     <div class="item">
@@ -22,7 +22,7 @@
          <br>
       <a href="gateway.html "
       ><button>download </button></a>
-      <br
+      
       
       <p class="price">₹80</p>
   <p>GOURAV BUS</p>
