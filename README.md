@@ -56,7 +56,7 @@
     <br>
       <p class="price">₹80</p>
   
-  <a href="gateway.html" 
+  <a href="gateway.html" >
         
       </a><button>download</button> </a>
     </div>
