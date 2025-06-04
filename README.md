@@ -14,13 +14,14 @@
     <p style="background-color:yellow">Explore our collection of business livery photos for sale!</p>
 
 
-  <section class class="no
+
       <h2>SIMRAN BUS</h2>
       <img src="simmer.jpg" height="100px">
-        <img src="simmrn.jpg" height="100px">  <p>₹80</p>
+        <img src="simmrn.jpg" height="100px"> 
+        <p>₹80</p>
          <br>
-      <a href="gateway.html "
-      </a><button>download </button></a>
+      <a href="gateway.html">
+     <button>download </button></a>
       <br>
       
       <p class="price">₹80</p>
