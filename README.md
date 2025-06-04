@@ -13,16 +13,16 @@
 @jk_livery_maker follow on Instagram</h1></center>
     <p style="background-color:yellow">Explore our collection of business livery photos for sale!</p>
 
-
-
-      <h2>SIMRAN BUS</h2>
+<section class class="no"
+    <div class>
+      <h2>SIMRAN BUS</h>
+    <div class="item">
       <img src="simmer.jpg" height="100px">
-        <img src="simmrn.jpg" height="100px"> 
-        <p>₹80</p>
+        <img src="simmrn.jpg" height="100px">  <p>₹80</p>
          <br>
-      <a href="gateway.html">
-     <button>download </button></a>
-      <br>
+      <a href="gateway.html "
+      ><button>download </button></a>
+      <br
       
       <p class="price">₹80</p>
   <p>GOURAV BUS</p>
