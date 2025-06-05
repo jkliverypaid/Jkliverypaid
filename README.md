@@ -56,7 +56,7 @@
       ><button>download</button> </a>
     
 
-<h2>SHIVEM BUS</h2>
+<h2>SHIVAM BUS</h2>
    <img src="shivam.jpg" alt="Livery Photo 3" height="100px">
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
@@ -67,7 +67,7 @@
       ><button>download</button> </a>
     
 
-<h2>SYMBYAL BUS</h2>
+<h2>SAMBYAL BUS</h2>
    <img src="syml.jpg" alt="Livery Photo 3" height="100px">
  <img src="syml3.jpg" alt="Livery Photo 3" height="100px">
     <br>
