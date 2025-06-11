@@ -24,7 +24,7 @@
       ><button>download </button></a>
       
       
-      <p class="price">₹80</p>
+      <p class="price">₹120/-</p>
   <p>GOURAV BUS</p>
       <img src="gorv.jpg" alt="Livery Photo 3" height="100px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="100px">
@@ -37,7 +37,7 @@
    <img src="bus1.jpg" alt="Livery Photo 3" height="100px">
      <img src="bus2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
+      <p class="price">₹60/-</p>
   
   <a href="gateway.html" >
         
@@ -60,7 +60,8 @@
    <img src="shivam.jpg" alt="Livery Photo 3" height="100px">
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
+      <p class="price" >offer offer 50% off </p>
+      <p>₹40/-</p>
   
   <a href="gateway.html" 
         
@@ -71,7 +72,7 @@
    <img src="syml.jpg" alt="Livery Photo 3" height="100px">
  <img src="syml3.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
+      <p class="price">₹60/-</p>
   
   <a href="gateway.html"> 
         
@@ -81,7 +82,7 @@
    <img src="thekaka.jpg" alt="Livery Photo 3" height="100px">
  <img src="thekaka2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
+      <p class="price">₹50/-</p>
   
   <a href="gateway.html">
         
