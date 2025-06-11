@@ -24,8 +24,9 @@
       ><button>download </button></a>
       
       
-      <p class="price">₹120/-</p>
+      
   <p>GOURAV BUS</p>
+  <p>₹120/-</p>
       <img src="gorv.jpg" alt="Livery Photo 3" height="100px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="100px">
       <br>3
