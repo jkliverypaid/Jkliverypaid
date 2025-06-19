@@ -13,9 +13,9 @@
 @jk_livery_maker follow on Instagram</h1></center>
     <p style="background-color:yellow">Explore our collection of business livery photos for sale!</p>
 
- <<section class class="no">
+ <section class class="no">
     <div class>
-      <h2>SIMRAN BUS</h>
+      <h2>SIMRAN BUS</h2>
     <div class="item">
       <img src="simmer.jpg" height="100px">
         <img src="simmrn.jpg" height="100px">  <p>₹80</p>
@@ -54,7 +54,7 @@
   
   <a href="gateway.html" >
         
-      ><button>download</button> </a>
+      <button>download</button> </a>
     
 
 <h2>SHIVAM BUS</h2>
@@ -77,7 +77,7 @@
   
   <a href="gateway60.html"> 
         
-      ><button>download</button> </a>
+      <button>download</button> </a>
     
 <h2>DIWANI BUS</h2>
    <img src="thekaka.jpg" alt="Livery Photo 3" height="100px">
@@ -98,7 +98,7 @@
   <a href="gateway.html" >
         
       <button>download</button> </a>
-    </div>
+    
 
 <h2>METRO CITY BUS</h2>
    <img src="MATEO1.jpg" alt="Livery Photo 3" height="100px">
@@ -109,18 +109,18 @@
   <a href="gateway.html" >
         
       <button>download</button> </a>
-    </div>
+    
 
 <h2>GANDOTRA COACH BUS</h2>
    <img src="KY1.jpg" alt="Livery Photo 3" height="100px">
- <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
+ <img src="KY2 .jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
   
   <a href="gateway.html" >
         
       <button>download</button> </a>
-    </div>
+    
 
 <h2>GOKUL</h2>
    <img src="GOKUL1.jpg" alt="Livery Photo 3" height="100px">
@@ -131,7 +131,7 @@
   <a href="gateway.html" >
         
       <button>download</button> </a>
-    </div>
+    
 
 <h2>LAKHVINDER BUS </h2>
    <img src="DER1.jpg" alt="Livery Photo 3" height="100px">
