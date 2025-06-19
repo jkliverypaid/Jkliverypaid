@@ -113,7 +113,7 @@
 
 <h2>GANDOTRA COACH BUS</h2>
    <img src="KY1.jpg" alt="Livery Photo 3" height="100px">
- <img src="KY2 .jpg" alt="Livery Photo 3" height="100px">
+ <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
   
