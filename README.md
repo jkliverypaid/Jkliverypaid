@@ -88,6 +88,61 @@
   <a href="gateway.html">
         
     <button>download</button> </a>
+
+    <h2>RADHE RADHE BUS</h2>
+   <img src="RADHA 1.jpg" alt="Livery Photo 3" height="100px">
+ <img src="RADHA 2.jpg" alt="Livery Photo 3" height="100px">
+    <br>
+      <p class="price">₹80</p>
+  
+  <a href="gateway.html" >
+        
+      </a><button>download</button> </a>
+    </div>
+
+<h2>METRO CITY BUS</h2>
+   <img src="MATEO1.jpg" alt="Livery Photo 3" height="100px">
+ <img src="MATEO2.jpg" alt="Livery Photo 3" height="100px">
+    <br>
+      <p class="price">₹80</p>
+  
+  <a href="gateway.html" >
+        
+      </a><button>download</button> </a>
+    </div>
+
+<h2>GANDOTRA COACH BUS</h2>
+   <img src="KY1.jpg" alt="Livery Photo 3" height="100px">
+ <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
+    <br>
+      <p class="price">₹80</p>
+  
+  <a href="gateway.html" >
+        
+      </a><button>download</button> </a>
+    </div>
+
+<h2>GOKUL</h2>
+   <img src="GOKUL1.jpg" alt="Livery Photo 3" height="100px">
+ <img src="GOKUL 2.jpg" alt="Livery Photo 3" height="100px">
+    <br>
+      <p class="price">₹80</p>
+  
+  <a href="gateway.html" >
+        
+      </a><button>download</button> </a>
+    </div>
+
+<h2>LAKHVINDER BUS </h2>
+   <img src="DER1.jpg" alt="Livery Photo 3" height="100px">
+ <img src="DER2.jpg" alt="Livery Photo 3" height="100px">
+    <br>
+      <p class="price">₹80</p>
+  
+  <a href="gateway.html" >
+        
+      <button>download</button> </a>
+    
     
 <!-- Add more items as needed -->
 
