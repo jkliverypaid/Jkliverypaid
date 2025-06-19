@@ -151,6 +151,4 @@
   <footer>
     <p>&copy; 2025 Livery Sale JK ALA. All rights reserved.</p>
   </footer>
-</bg>
-</body>
-</html>
+
