@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body style="background-color:lightyellow"> 
-  <center> <a href="https://www.instagram.com/jk_livery_maker?igsh=Z2k0eDBub3JxbWMz" <img src="jklivery.png" height="40px"></center>
+  <center> <img src="jklivery.png" height="40px"></center>
   <header>
     <center> <h1 style="color:skyblue">Livery Sale JK ALA
 @jk_livery_maker follow on Instagram</h1></center>
