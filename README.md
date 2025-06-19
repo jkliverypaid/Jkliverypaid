@@ -97,7 +97,7 @@
   
   <a href="gateway.html" >
         
-      </a><button>download</button> </a>
+      <button>download</button> </a>
     </div>
 
 <h2>METRO CITY BUS</h2>
