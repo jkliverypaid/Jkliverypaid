@@ -30,7 +30,7 @@
       <img src="gorv.jpg" alt="Livery Photo 3" height="100px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="100px">
       <br>3
-        <a href="gateway.html">
+        <a href="gateway120.html">
           
     <button>download</button> </a>
       
@@ -40,7 +40,7 @@
     <br>
       <p class="price">₹60/-</p>
   
-  <a href="gateway.html" >
+  <a href="gateway60.html" >
         
       
       <button>download</button> </a>
@@ -64,9 +64,9 @@
       <p class="price" >offer offer 50% off </p>
       <p>₹40/-</p>
   
-  <a href="gateway.html" 
+  <a href="gateway40.html" >
         
-      ><button>download</button> </a>
+      <button>download</button> </a>
     
 
 <h2>SAMBYAL BUS</h2>
@@ -75,7 +75,7 @@
     <br>
       <p class="price">₹60/-</p>
   
-  <a href="gateway.html"> 
+  <a href="gateway60.html"> 
         
       ><button>download</button> </a>
     
@@ -85,7 +85,7 @@
     <br>
       <p class="price">₹50/-</p>
   
-  <a href="gateway.html">
+  <a href="gateway50.html">
         
     <button>download</button> </a>
 
@@ -108,7 +108,7 @@
   
   <a href="gateway.html" >
         
-      </a><button>download</button> </a>
+      <button>download</button> </a>
     </div>
 
 <h2>GANDOTRA COACH BUS</h2>
@@ -119,7 +119,7 @@
   
   <a href="gateway.html" >
         
-      </a><button>download</button> </a>
+      <button>download</button> </a>
     </div>
 
 <h2>GOKUL</h2>
@@ -130,7 +130,7 @@
   
   <a href="gateway.html" >
         
-      </a><button>download</button> </a>
+      <button>download</button> </a>
     </div>
 
 <h2>LAKHVINDER BUS </h2>
