@@ -1,0 +1,55 @@
+body{
+  
+  background-color: lightyellow;
+}
+button{
+  border-radius: 4px;
+  border: line;
+  margin-top: none;
+}
+h2{
+  width: 170px;
+  border-radius: 
+}
+#jkl{
+  border-radius: 50%;
+  margin-right: 50px;
+  
+}
+img{
+  height: 90px;
+  width: 210px;
+  border-radius: 13px;
+  border-color: red;
+  border:1px solid black;
+}
+#jkl{
+  position: absolute;
+top:10px;
+left:10px;  
+  height: 50px;
+  width: 50px
+}
+#jkt{
+  border-radius:50%;
+  position: absolute;
+  top: 10px;
+  right:10px;
+  height: 50px;
+  width: 50px
+  
+  
+}
+#hl{
+  font-size: 15px;
+  text-align: center;
+}
+#hd{
+ border: 2px solid red;
+  background-color: black;
+  height: 110px
+} 
+div{
+  border: 1px solid black;
+}
+
