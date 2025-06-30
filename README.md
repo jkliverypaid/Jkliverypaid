@@ -29,7 +29,7 @@
 <div>
       <h2>GOURAV BUS</h2>
       <p class="price"></p>
-      <img  id="jk"src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
+      <img  src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
      
         <a href="gateway120.html" >
