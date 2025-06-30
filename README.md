@@ -117,7 +117,7 @@
   
   <a href="gateway.html">
         
-      <button>download</button> </a>
+      <button>download</button> 
 </div>
 <div>
 
