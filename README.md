@@ -32,7 +32,7 @@
       <img  id="jk"src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
      
-        <a href="gateway120.html" 
+        <a href="gateway120.html"
           
       </a><button>download</button> </a>
 </div>
@@ -115,9 +115,9 @@
     <br>
       <p class="price">₹80</p>
   
-  <a href="gateway.html" 
+  <a href="gateway.html"></a>
         
-      </a><button>download</button> </a>
+      <button>download</button> </a>
 </div>
 <div>
 
