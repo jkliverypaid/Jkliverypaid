@@ -33,8 +33,7 @@
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
      
   ll <a href="gateway120.html" >
-          
-      <button>download</button> </a>
+        <button>download</button> </a>
 </div>
    
 <div>
