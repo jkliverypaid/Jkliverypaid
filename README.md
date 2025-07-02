@@ -115,7 +115,7 @@
  <a href="gateway.html" 
         ><button>download</button> </a>
 </div>
-<div></div>
+<div>
 <h2>GOKUL</h2>
    <img src="GOKUL1.jpg" alt="Livery Photo 3" height="100px">
  <img src="GOKUL 2.jpg" alt="Livery Photo 3" height="100px">
