@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,8 +7,8 @@
   <link rel="stylesheet" href="cssjkl.css">
 </head>
 <body > 
-   <img id="jkl"src ="jklivery.png" height="40px" > </a>
-    <img id="jkt"src ="tarun.png" height="40px" > </a>
+   <img src ="jklivery.png" height="40px" > </a>
+    <img src ="tarun.png" height="40px" > </a>
   <div id="hd"> <header>
     <center> <h1 style="color:skyblue" id="hl">THIS WEBSITE SALE JK BUS LIVERY <br>NEW DEGINE COMIMG SOON
       <br>@tarun_999_gamer and @jk_livery_maker<br> follow on Instagram</h1></center>
