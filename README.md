@@ -32,7 +32,7 @@
       <img  src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
      
-        <a href="gateway120.html" >
+  ll <a href="gateway120.html" >
           
       <button>download</button> </a>
 </div>
@@ -44,8 +44,7 @@
      <img src="bus2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
+      <a href="gateway.html" 
         
       </a><button>download</button> </a>
 </div>
@@ -56,7 +55,6 @@
  <img src="sahil2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
         
       </a><button>download</button> </a>
@@ -69,7 +67,6 @@
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
         
       </a><button>download</button> </a>
@@ -80,7 +77,6 @@
  <img src="syml3.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
         
       </a><button>download</button> </a>
@@ -91,8 +87,7 @@
  <img src="thekaka2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
+   <a href="gateway.html" 
         
       </a><button>download</button> </a>
 <div>
@@ -102,10 +97,8 @@
  <img src="RADHA 2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        </a><button>download</button> </a>
 </div>
 <div>
 
@@ -126,8 +119,7 @@
  <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
+ <a href="gateway.html" 
         
       </a><button>download</button> </a>
 </div>
@@ -137,8 +129,7 @@
  <img src="GOKUL 2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
+ <a href="gateway.html" 
         
       </a><button>download</button> </a>
 </div>
@@ -148,8 +139,7 @@
  <img src="DER2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
+   <a href="gateway.html" 
         
       </a><button>download</button> </a>
 </div>
