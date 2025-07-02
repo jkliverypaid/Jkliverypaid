@@ -32,7 +32,7 @@
       <img  src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
      
-  ll <a href="gateway120.html" >
+  <a href="gateway120.html" >
         <button>download</button> </a>
 </div>
    
@@ -43,9 +43,8 @@
      <img src="bus2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-      <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+      <a href="gateway.html" >
+        <button>download</button> </a>
 </div>
 <div>
       
@@ -55,8 +54,7 @@
     <br>
       <p class="price">₹80</p>
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 
@@ -67,8 +65,7 @@
     <br>
       <p class="price">₹80</p>
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+      ><button>download</button> </a>
 </div>   
 <div>
 <h2>SYMBYAL BUS</h2>
