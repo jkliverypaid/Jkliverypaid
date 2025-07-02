@@ -74,8 +74,7 @@
     <br>
       <p class="price">₹80</p>
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 <h2>DIWANI BUS</h2>
@@ -84,8 +83,7 @@
     <br>
       <p class="price">₹80</p>
    <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 <div>
 
 <h2>RADHE RADHE BUS</h2>
@@ -94,7 +92,7 @@
     <br>
       <p class="price">₹80</p>
   <a href="gateway.html" 
-        </a><button>download</button> </a>
+      ><button>download</button> </a>
 </div>
 <div>
 
@@ -105,7 +103,6 @@
       <p class="price">₹80</p>
   
   <a href="gateway.html">
-        
       <button>download</button> 
 </div>
 <div>
@@ -116,8 +113,7 @@
     <br>
       <p class="price">₹80</p>
  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div></div>
 <h2>GOKUL</h2>
@@ -126,8 +122,7 @@
     <br>
       <p class="price">₹80</p>
  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 <h2>LAKHVINDER BUS </h2>
@@ -136,8 +131,7 @@
     <br>
       <p class="price">₹80</p>
    <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+      ><button>download</button> </a>
 </div>
 <!-- Add more items as needed -->
 
