@@ -103,7 +103,7 @@
       <p class="price">₹80</p>
   
   <a href="gateway.html">
-      <button>download</button> 
+      <button>download</button> </a>
 </div>
 <div>
 <h2>GANDOTRA COACH BUS</h2>
