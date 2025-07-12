@@ -1,4 +1,4 @@
-
+mou
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -132,15 +132,7 @@
    <a href="gateway.html" 
       ><button>download</button> </a>
 </div>
-<div>
-<h2>PAWAN FLIGHT </h2>
-   <img src="p flight.jpeg" alt="Livery Photo 3" height="100px">
- <img src="p1flight.jpeg" alt="Livery Photo 3" height="100px">
-    <br>
-      <p class="price" style="background-color:red;">free 100%</p>
-   <a href="https://drive.google.com/file/d/1Ilw2mjjRx17MPvUgfa9GbsrAALXKsWJ-/view?usp=drivesdk" 
-      ><button>download</button> </a>
-</div>
+
 
 <!-- Add more items as needed -->
 
