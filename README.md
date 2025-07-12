@@ -83,6 +83,7 @@
       <p class="price">₹80</p>
    <a href="gateway.html" 
         ><button>download</button> </a>
+</div>
 <div>
 
 <h2>RADHE RADHE BUS</h2>
@@ -105,7 +106,6 @@
       <button>download</button> 
 </div>
 <div>
-
 <h2>GANDOTRA COACH BUS</h2>
    <img src="KY1.jpg" alt="Livery Photo 3" height="100px">
  <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
