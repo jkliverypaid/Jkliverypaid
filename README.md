@@ -41,8 +41,8 @@
    <img src="bus1.jpg" alt="Livery Photo 3" height="100px">
      <img src="bus2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
-      <a href="gateway.html" >
+      <p class="price">₹60</p>
+      <a href="gateway60.html" >
         <button>download</button> </a>
 </div>
 <div>
@@ -62,8 +62,8 @@
    <img src="shivam.jpg" alt="Livery Photo 3" height="100px">
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
-  <a href="gateway.html" 
+      <p class="price">₹40</p>
+  <a href="gateway40.html" 
       ><button>download</button> </a>
 </div>   
 <div>
@@ -80,8 +80,8 @@
    <img src="thekaka.jpg" alt="Livery Photo 3" height="100px">
  <img src="thekaka2.jpg" alt="Livery Photo 3" height="100px">
     <br>
-      <p class="price">₹80</p>
-   <a href="gateway.html" 
+      <p class="price">₹50</p>
+   <a href="gateway50.html" 
         ><button>download</button> </a>
 </div>
 <div>
