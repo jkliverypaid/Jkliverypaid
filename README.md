@@ -138,7 +138,7 @@ mou
  <img src="tarun1.jpeg" alt="Livery Photo 3" height="100px">
     <br>
   <p class="price">₹30/- offer</p>
-  <h5 >follow on instagram to gat upto ₹5 - cashback !!<br> (THIS OFFER ONLY VALED ON FOLLOW)
+  <h5 >follow on instagram to gat upto ₹5 - cashback !!<br> (THIS OFFER ONLY VALID ON FOLLOW)
   </h5>
   <a href="gateway30.html"><button>download</button> </a>
 </div>
