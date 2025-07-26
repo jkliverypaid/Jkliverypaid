@@ -132,7 +132,16 @@ mou
    <a href="gateway.html" 
       ><button>download</button> </a>
 </div>
-
+<div>
+<h2>TARUN </h2>
+   <img src="tarun.jpeg" alt="Livery Photo 3" height="100px">
+ <img src="tarun1.jpeg" alt="Livery Photo 3" height="100px">
+    <br>
+  <p class="price">₹30/- offer</p>
+  <h5 >follow on instagram to gat upto ₹5 - cashback !!<br> (THIS OFFER ONLY VALED ON FOLLOW)
+  </h5>
+  <a href="gateway30.html"<button>download</button> </a>
+</div>
 
 <!-- Add more items as needed -->
 
