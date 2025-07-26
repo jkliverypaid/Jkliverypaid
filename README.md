@@ -140,7 +140,7 @@ mou
   <p class="price">₹30/- offer</p>
   <h5 >follow on instagram to gat upto ₹5 - cashback !!<br> (THIS OFFER ONLY VALED ON FOLLOW)
   </h5>
-  <a href="gateway30.html"<button>download</button> </a>
+  <a href="gateway30.html"><button>download</button> </a>
 </div>
 
 <!-- Add more items as needed -->
