@@ -25,7 +25,6 @@
   <b><p>only ₹80/-</b></p>
       <a href="gateway.html "
       ><button style="">download </button></a>
-    
       
 </div>
 <div>
@@ -57,9 +56,7 @@
         <button>download</button> </a>
 </div>
 <div>
-
 <h2>SHIVEM BUS</h2>
-  
    <img src="shivam.jpg" alt="Livery Photo 3" height="100px">
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
