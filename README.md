@@ -33,10 +33,8 @@
       <p class="price"></p>
       <img  id="jk"src="gorv.jpg" alt="Livery Photo 3" height="90px" width="210px">
        <img src="gorv2.jpg" alt="Livery Photo 3" height="90px" width="210px"> <p>₹120/-</p>
-     
-        <a href="gateway120.html" 
-          
-      </a><button>download</button> </a>
+         <a href="gateway120.html">
+           <button>download</button> </a>
 </div>   
 <div>
       <h2>P. G .S BUS</h2>
@@ -56,10 +54,8 @@
  <img src="sahil2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+  <a href="gateway.html" >
+        <button>download</button> </a>
 </div>
 <div>
 
@@ -69,10 +65,8 @@
  <img src="shivam2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">  ₹80</p>
-  
-  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+  <a href="gateway.html" >
+      <button>download</button> </a>
 </div>   
 <div>
 <h2>SYMBYAL BUS</h2>
@@ -82,8 +76,7 @@
       <p class="price">₹80</p>
   
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 <h2>DIWANI BUS</h2>
@@ -91,10 +84,8 @@
  <img src="thekaka2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 <div>
 
 <h2>RADHE RADHE BUS</h2>
@@ -102,10 +93,8 @@
  <img src="RADHA 2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 
@@ -114,10 +103,8 @@
  <img src="MATEO2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 
@@ -126,10 +113,8 @@
  <img src="KY2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+   <a href="gateway.html" 
+     ><button>download</button> </a>
 </div>
 <div></div>
 <h2>GOKUL</h2>
@@ -137,10 +122,8 @@
  <img src="GOKUL 2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
-  <a href="gateway.html" 
-        
-      </a><button>download</button> </a>
+    <a href="gateway.html" 
+        ><button>download</button> </a>
 </div>
 <div>
 <h2>LAKHVINDER BUS </h2>
@@ -148,10 +131,8 @@
  <img src="DER2.jpg" alt="Livery Photo 3" height="100px">
     <br>
       <p class="price">₹80</p>
-  
   <a href="gateway.html" 
-        
-      ><button>download</button> </a>
+        ><button>download</button> </a>
 </div>
 <div>
 
